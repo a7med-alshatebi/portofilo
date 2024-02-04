@@ -138,6 +138,6 @@ span{
 
 @media  screen and (max-width: 414px){
     .social-icon{
-        visibility: collapse;
+        visibility: visible;
     }
 }
